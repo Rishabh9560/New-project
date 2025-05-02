@@ -1,1 +1,1 @@
-# New-project
+Hello ! This is a practice session . 
